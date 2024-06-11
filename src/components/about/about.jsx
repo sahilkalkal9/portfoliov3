@@ -35,13 +35,13 @@ function About({ mode }) {
                             </div>
                         </div>
 
-                        <div className={mode == "dark" ? "whatIdoBox ui ui-dark" : "whatIdoBox ui"}>
+                        {/* <div className={mode == "dark" ? "whatIdoBox ui ui-dark" : "whatIdoBox ui"}>
                             <img className="widImg" src={ui} />
                             <div className="widdets">
                                 <p className={mode == "dark" ? "widhead widhead-dark" : "widhead"}>UI/UX Designing</p>
                                 <p className={mode == "dark" ? "widtext widtext-dark" : "widtext"}>In UI/UX design, I blend creativity with empathy to craft visually stunning and user-centric experiences. Each pixel I place is meticulously crafted to evoke emotion. </p>
                             </div>
-                        </div>
+                        </div> */}
 
                         <div className={mode == "dark" ? "whatIdoBox idea idea-dark" : "whatIdoBox idea"}>
                             <img className="widImg" src={idea} />
@@ -52,13 +52,13 @@ function About({ mode }) {
                             </div>
                         </div>
 
-                        <div className={mode == "dark" ? "whatIdoBox rescue rescue-dark" : "whatIdoBox rescue"}>
+                        {/* <div className={mode == "dark" ? "whatIdoBox rescue rescue-dark" : "whatIdoBox rescue"}>
                             <img className="widImg" src={animal} />
                             <div className="widdets">
                                 <p className={mode == "dark" ? "widhead widhead-dark" : "widhead"}>Animal Rescue</p>
                                 <p className={mode == "dark" ? "widtext widtext-dark" : "widtext"}>I provide injured animals with vital care and support, offering them a second chance at life by ensuring they receive the medical attention and love they need to recover. </p>
                             </div>
-                        </div>
+                        </div> */}
                     </div>
                 </div>
 
