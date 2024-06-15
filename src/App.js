@@ -8,6 +8,7 @@ import Contact from "./components/contact/contact"
 import Projects from "./components/projects/projects"
 import Blogs from "./components/blogs/blogs"
 import { useEffect, useState } from 'react';
+import CursorFollower from './components/cursorFollow/cursorFollow';
 
 function App() {
 
@@ -33,6 +34,7 @@ function App() {
   return (
     <>
       <div className={mode == "dark" ? "AppBigScreen AppBigScreenDark" : "AppBigScreen"}>
+        <CursorFollower />
 
         <Home mode={mode} setMode={setMode} />
         <div className={mode == "dark" ? 'second second-dark' : 'second'}>
