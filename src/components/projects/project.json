@@ -1,0 +1,241 @@
+[
+    {
+        "name": "Pashuholic Foundation",
+        "src": "monkey.png",
+        "dets": "A non profit organisation. Please view this website in Desktop only.",
+        "year": "2024",
+        "tagline": "A non-profit organization",
+        "desc": "A non profit organisation. Please view this website in Desktop only.",
+        "code": "https://github.com/sahilkalkal9/pashuholic",
+        "star": "https://github.com/sahilkalkal9/petsworld",
+        "demo": "https://pashuholic.vercel.app",
+        "br": "0px",
+        "tech": "React | CSS | Firebase",
+        "class" : "sip"
+    },
+    {
+        "name": "Chitragupt Foundation",
+        "src": "monkey.png",
+        "dets": "SocioEase is a simple social media website which is strictly concerned about your privacy and it is distraction free also. (Under Development)",
+        "year": "2024",
+        "tagline": "A non-profit organization",
+        "desc": "We Positive Care Chitragupt Foundation help animals to live their life happily",
+        "code": "https://github.com/sahilkalkal9/chitragupt-foundation",
+        "star": "https://github.com/sahilkalkal9/petsworld",
+        "demo": "https://wepositivecare.org",
+        "br": "0px",
+        "tech": "React | CSS | Firebase",
+        "class" : "sip"
+    },
+    {
+        "name": "Aashiyana Recovery Home",
+        "src": "arh.png",
+        "dets": "SocioEase is a simple social media website which is strictly concerned about your privacy and it is distraction free also. (Under Development)",
+        "year": "2024",
+        "tagline": "A non-profit organization",
+        "desc": "Aashiyana Recovery Home (ARH) help animals to live their life happily",
+        "code": "https://github.com/caninely/caninely.github.io",
+        "star": "https://github.com/sahilkalkal9/petsworld",
+        "demo": "https://aashiyanabynaman.org",
+        "br": "0px",
+        "tech": "React | CSS | Firebase",
+        "class" : "sip"
+    },
+    {
+        "name": "Caninely",
+        "src": "monkey.png",
+        "dets": "SocioEase is a simple social media website which is strictly concerned about your privacy and it is distraction free also. (Under Development)",
+        
+        "year": "2024",
+        "tagline": "Tailored solutions for every paw",
+        "desc": "Caninely is a one-stop destination for all canine things.",
+        "code": "https://github.com/caninely/caninely.github.io",
+        "star": "https://github.com/sahilkalkal9/petsworld",
+        "demo": "https://caninely.github.io",
+        "br": "0px",
+        "tech": "React | CSS | Firebase",
+        "class" : "sep"
+    },
+    {
+        "name": "PetsWorld",
+        "src": "monkey.png",
+        "dets": "SocioEase is a simple social media website which is strictly concerned about your privacy and it is distraction free also. (Under Development)",
+       
+        "year": "2023",
+        "tagline": "Community of pet animal lovers",
+        "desc": "PetsWorld is a community of animal lovers all over the world.",
+        "code": "https://github.com/sahilkalkal9/petsworld",
+        "star": "https://github.com/sahilkalkal9/petsworld",
+        "demo": "https://petsworld11.vercel.app",
+        "br": "0px",
+        "tech": "React | CSS | Firebase",
+        "class" : "eip"
+    },
+    {
+        "name": "TacTime",
+        "src": "monkey.png",
+        "dets": "SocioEase is a simple social media website which is strictly concerned about your privacy and it is distraction free also. (Under Development)",
+        
+        "year": "2023",
+        "tagline": "Multiplayer tic-tac-toe",
+        "desc": "TacTime is a simple online multiplayer tic-tac-toe game.",
+        "code": "https://github.com/sahilkalkal9/tactime",
+        "star": "https://github.com/sahilkalkal9/tactime",
+        "demo": "https://tactime.vercel.app",
+        "br": "100px",
+        "tech": "React | CSS | Firebase",
+        "class" : "nip"
+    },
+    {
+        "name": "LinkMap",
+        "src": "monkey.png",
+        "dets": "SocioEase is a simple social media website which is strictly concerned about your privacy and it is distraction free also.",
+        "year": "2023",
+        "tagline": "Group your links",
+        "desc": "LinkMap is a simple web application to group your links and then you can share them via one single link.",
+        "code": "https://github.com/sahilkalkal9/linkmap",
+        "star": "https://github.com/sahilkalkal9/linkmap",
+        "demo": "https://linkmap.vercel.app",
+        "br": "100px",
+        "tech": "React | CSS | Firebase",
+        "class" : "tp"
+    },
+    {
+        "name": "SocioEase",
+        "src": "monkey.png",
+        
+        "dets": "SocioEase is a simple social media website which is strictly concerned about your privacy and it is distraction free also. (Under Development)",
+        "year": "2023",
+        "tagline": "A social media website",
+        "desc": "SocioEase is a simple social media website which is strictly concerned about your privacy and it is distraction free also. (Under Development)",
+        "code": "https://github.com/sahilkalkal9/socioease",
+        "star": "https://github.com/sahilkalkal9/socioease",
+        "demo": "https://socioease.vercel.app",
+        "br": "100px",
+        "tech": "React | CSS | Firebase",
+        "class" : "elp"
+    },
+    {
+        "name": "Chemictionary",
+        "src": "monkey.png",
+        "dets": "SocioEase is a simple social media website which is strictly concerned about your privacy and it is distraction free also. (Under Development)",
+        
+        "year": "2023",
+        "tagline": "Dictionary of Chemistry",
+        "desc": "Chemictionary is a simple, fast and easy platform to build the concepts of chemistry.",
+        "code": "https://github.com/Chemictionary/chemictionary",
+        "star": "https://github.com/Chemictionary/chemictionary",
+        "demo": "https://chemictionary.com",
+        "br": "0px",
+        "tech": "React | CSS | Firebase",
+        "class" : "twp"
+    },
+    {
+        "name": "Notebook",
+        "src": "monkey.png",
+       
+        "year": "2023",
+        "dets": "SocioEase is a simple social media website which is strictly concerned about your privacy and it is distraction free also. (Under Development)",
+        "tagline": "Your online notebook",
+        "desc": "Notebook is your personal space to save your keypoints, todos and targets online.",
+        "code": "https://github.com/sahilkalkal9/notebook",
+        "star": "https://github.com/Chemictionary/chemictionary",
+        "demo": "https://sahilkalkal9.github.io/notebook",
+        "br": "0px",
+        "tech": "React | CSS | Firebase",
+        "class" : "thip"
+    },
+    {
+        "name": "File Space",
+        "src": "monkey.png",
+        
+        "year": "2023",
+        "tagline": "Save files online",
+        "desc": "File Space is your personal space to save any file online, file of any format can be saved.",
+        "code": "https://github.com/sahilkalkal9/file-space",
+        "star": "https://github.com/Chemictionary/chemictionary",
+        "demo": "https://sahilkalkal9.github.io/file-space",
+        "dets": "SocioEase is a simple social media website which is strictly concerned about your privacy and it is distraction free also. (Under Development)",
+        "br": "0px",
+        "tech": "React | CSS | Firebase",
+        "class" : "foup"
+    },
+    {
+        "name": "Portfolio",
+        "src": "monkey.png",
+        
+        "year": "2023",
+        "tagline": "My portfolio Website",
+        "desc": "It is basically about me, I tried to keep it simple and clean, hope you will like it.",
+        "code": "https://github.com/sahilkalkal9/my-portfolio",
+        "star": "https://github.com/Chemictionary/chemictionary",
+        "demo": "https://sahilkalkal.com",
+        "br": "0px",
+        "dets": "SocioEase is a simple social media website which is strictly concerned about your privacy and it is distraction free also. (Under Development)",
+        "tech": "React | CSS",
+        "class" : "fp"
+
+    },
+   
+    {
+        "name": "Resume Hub",
+        "src": "monkey.png",
+       
+        "year": "2023",
+        "dets": "SocioEase is a simple social media website which is strictly concerned about your privacy and it is distraction free also. (Under Development)",
+        "tagline": "A Free Resume Builder",
+        "desc": "Resume Hub is a free professional resume builder, have a try, hope you will like it.",
+        "code": "https://github.com/sahilkalkal9/resume-hub",
+        "star": "https://github.com/sahilkalkal9/resume-hub",
+        "demo": "https://sahilkalkal9.github.io/resume-hub/",
+        "br": "0px",
+        "tech": "React | CSS",
+        "class" : "sp"
+    },
+    {
+        "name": "Todo App",
+        "src": "monkey.png",
+        
+        "year": "2023",
+        "dets": "SocioEase is a simple social media website which is strictly concerned about your privacy and it is distraction free also. (Under Development)",
+        "tagline": "A Simple Todo App",
+        "desc": "It is a simple to-do saving website, here you can save your todos, no limits are there.",
+        "code": "https://github.com/sahilkalkal9/todo-app",
+        "star": "https://github.com/sahilkalkal9/todo-app",
+        "demo": "https://sahilkalkal9.github.io/todo-app/",
+        "br": "0px",
+        "tech": "React | CSS | Firebase",
+        "class" : "thp"
+    },
+    {
+        "name": "Google SignIn UI",
+        "src": "monkey.png",
+       
+        "year": "2023",
+        "tagline": "Google Sign In UI",
+        "dets": "SocioEase is a simple social media website which is strictly concerned about your privacy and it is distraction free also. (Under Development)",
+        "desc": "It is a clone of the Google's official Sign In UI,tried to build same, hope you will like it.",
+        "code": "https://github.com/sahilkalkal9/google-signin/",
+        "star": "https://github.com/sahilkalkal9/google-signin/",
+        "demo": "https://sahilkalkal9.github.io/google-signin/",
+        "br": "0px",
+        "tech": "React | CSS",
+        "class" : "fop"
+    },
+    {
+        "name": "Insta login page",
+        "src": "monkey.png",
+        
+        "year": "2023",
+        "dets": "SocioEase is a simple social media website which is strictly concerned about your privacy and it is distraction free also. (Under Development)",
+        "tagline": "Instagram login UI",
+        "desc": "It is a clone of the Instagram's official Sign In page, tried to build same, hope you will like it.",
+        "code": "https://github.com/sahilkalkal9/instaLandingPage/",
+        "star": "https://github.com/sahilkalkal9/instaLandingPage/",
+        "demo": "https://sahilkalkal9.github.io/instaLandingPage/",
+        "br": "0px",
+        "tech": "React | CSS",
+        
+        "class" : "fip"
+    }
+]
