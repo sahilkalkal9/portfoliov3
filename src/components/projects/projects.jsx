@@ -33,7 +33,7 @@ function Projects({ mode }) {
 
                                     <div className="pro-buttons">
                                         <a className="proButton fouprm" href={p.code} target="blank">
-                                            <p className={mode == "dark" ? "button-text button-text-dark" : "button-text"} >Repo</p>
+                                            <p className={mode == "dark" ? "button-text button-text-dark" : "button-text"} >Code</p>
                                         </a>
                                         <a className={mode == "dark" ? "proButton foupvt foupvt-dark" : "proButton foupvt"} href={p.demo} target="blank">
                                             <p >Visit</p>

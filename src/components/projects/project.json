@@ -1,8 +1,22 @@
 [
     {
+        "name": "Knowledge Gate Clone",
+        "src": "monkey.png",
+        "dets": "Clone of the website of Knowledge Gate - A to Z courses for Gate preparation.",
+        "year": "2024",
+        "tagline": "A non-profit organization",
+        "desc": "Clone of the website of Knowledge Gate - A to Z courses for Gate preparation.",
+        "code": "https://github.com/sahilkalkal9/knowledgegate-clone",
+        "star": "https://github.com/sahilkalkal9/petsworld",
+        "demo": "https://knowledgegate-clone.vercel.app",
+        "br": "0px",
+        "tech": "React | CSS | Firebase",
+        "class": "sip"
+    },
+    {
         "name": "Pashuholic Foundation",
         "src": "monkey.png",
-        "dets": "A non profit organisation. Please view this website in Desktop only.",
+        "dets": "A non profit organisation",
         "year": "2024",
         "tagline": "A non-profit organization",
         "desc": "A non profit organisation. Please view this website in Desktop only.",
@@ -11,7 +25,7 @@
         "demo": "https://pashuholic.vercel.app",
         "br": "0px",
         "tech": "React | CSS | Firebase",
-        "class" : "sip"
+        "class": "sip"
     },
     {
         "name": "Chitragupt Foundation",
@@ -25,7 +39,7 @@
         "demo": "https://wepositivecare.org",
         "br": "0px",
         "tech": "React | CSS | Firebase",
-        "class" : "sip"
+        "class": "sip"
     },
     {
         "name": "Aashiyana Recovery Home",
@@ -39,13 +53,12 @@
         "demo": "https://aashiyanabynaman.org",
         "br": "0px",
         "tech": "React | CSS | Firebase",
-        "class" : "sip"
+        "class": "sip"
     },
     {
         "name": "Caninely",
         "src": "monkey.png",
         "dets": "SocioEase is a simple social media website which is strictly concerned about your privacy and it is distraction free also. (Under Development)",
-        
         "year": "2024",
         "tagline": "Tailored solutions for every paw",
         "desc": "Caninely is a one-stop destination for all canine things.",
@@ -54,13 +67,12 @@
         "demo": "https://caninely.github.io",
         "br": "0px",
         "tech": "React | CSS | Firebase",
-        "class" : "sep"
+        "class": "sep"
     },
     {
         "name": "PetsWorld",
         "src": "monkey.png",
         "dets": "SocioEase is a simple social media website which is strictly concerned about your privacy and it is distraction free also. (Under Development)",
-       
         "year": "2023",
         "tagline": "Community of pet animal lovers",
         "desc": "PetsWorld is a community of animal lovers all over the world.",
@@ -69,13 +81,12 @@
         "demo": "https://petsworld11.vercel.app",
         "br": "0px",
         "tech": "React | CSS | Firebase",
-        "class" : "eip"
+        "class": "eip"
     },
     {
         "name": "TacTime",
         "src": "monkey.png",
         "dets": "SocioEase is a simple social media website which is strictly concerned about your privacy and it is distraction free also. (Under Development)",
-        
         "year": "2023",
         "tagline": "Multiplayer tic-tac-toe",
         "desc": "TacTime is a simple online multiplayer tic-tac-toe game.",
@@ -84,7 +95,7 @@
         "demo": "https://tactime.vercel.app",
         "br": "100px",
         "tech": "React | CSS | Firebase",
-        "class" : "nip"
+        "class": "nip"
     },
     {
         "name": "LinkMap",
@@ -98,12 +109,11 @@
         "demo": "https://linkmap.vercel.app",
         "br": "100px",
         "tech": "React | CSS | Firebase",
-        "class" : "tp"
+        "class": "tp"
     },
     {
         "name": "SocioEase",
         "src": "monkey.png",
-        
         "dets": "SocioEase is a simple social media website which is strictly concerned about your privacy and it is distraction free also. (Under Development)",
         "year": "2023",
         "tagline": "A social media website",
@@ -113,13 +123,12 @@
         "demo": "https://socioease.vercel.app",
         "br": "100px",
         "tech": "React | CSS | Firebase",
-        "class" : "elp"
+        "class": "elp"
     },
     {
         "name": "Chemictionary",
         "src": "monkey.png",
         "dets": "SocioEase is a simple social media website which is strictly concerned about your privacy and it is distraction free also. (Under Development)",
-        
         "year": "2023",
         "tagline": "Dictionary of Chemistry",
         "desc": "Chemictionary is a simple, fast and easy platform to build the concepts of chemistry.",
@@ -128,12 +137,11 @@
         "demo": "https://chemictionary.com",
         "br": "0px",
         "tech": "React | CSS | Firebase",
-        "class" : "twp"
+        "class": "twp"
     },
     {
         "name": "Notebook",
         "src": "monkey.png",
-       
         "year": "2023",
         "dets": "SocioEase is a simple social media website which is strictly concerned about your privacy and it is distraction free also. (Under Development)",
         "tagline": "Your online notebook",
@@ -143,12 +151,11 @@
         "demo": "https://sahilkalkal9.github.io/notebook",
         "br": "0px",
         "tech": "React | CSS | Firebase",
-        "class" : "thip"
+        "class": "thip"
     },
     {
         "name": "File Space",
         "src": "monkey.png",
-        
         "year": "2023",
         "tagline": "Save files online",
         "desc": "File Space is your personal space to save any file online, file of any format can be saved.",
@@ -158,12 +165,11 @@
         "dets": "SocioEase is a simple social media website which is strictly concerned about your privacy and it is distraction free also. (Under Development)",
         "br": "0px",
         "tech": "React | CSS | Firebase",
-        "class" : "foup"
+        "class": "foup"
     },
     {
         "name": "Portfolio",
         "src": "monkey.png",
-        
         "year": "2023",
         "tagline": "My portfolio Website",
         "desc": "It is basically about me, I tried to keep it simple and clean, hope you will like it.",
@@ -173,14 +179,11 @@
         "br": "0px",
         "dets": "SocioEase is a simple social media website which is strictly concerned about your privacy and it is distraction free also. (Under Development)",
         "tech": "React | CSS",
-        "class" : "fp"
-
+        "class": "fp"
     },
-   
     {
         "name": "Resume Hub",
         "src": "monkey.png",
-       
         "year": "2023",
         "dets": "SocioEase is a simple social media website which is strictly concerned about your privacy and it is distraction free also. (Under Development)",
         "tagline": "A Free Resume Builder",
@@ -190,12 +193,11 @@
         "demo": "https://sahilkalkal9.github.io/resume-hub/",
         "br": "0px",
         "tech": "React | CSS",
-        "class" : "sp"
+        "class": "sp"
     },
     {
         "name": "Todo App",
         "src": "monkey.png",
-        
         "year": "2023",
         "dets": "SocioEase is a simple social media website which is strictly concerned about your privacy and it is distraction free also. (Under Development)",
         "tagline": "A Simple Todo App",
@@ -205,12 +207,11 @@
         "demo": "https://sahilkalkal9.github.io/todo-app/",
         "br": "0px",
         "tech": "React | CSS | Firebase",
-        "class" : "thp"
+        "class": "thp"
     },
     {
         "name": "Google SignIn UI",
         "src": "monkey.png",
-       
         "year": "2023",
         "tagline": "Google Sign In UI",
         "dets": "SocioEase is a simple social media website which is strictly concerned about your privacy and it is distraction free also. (Under Development)",
@@ -220,12 +221,11 @@
         "demo": "https://sahilkalkal9.github.io/google-signin/",
         "br": "0px",
         "tech": "React | CSS",
-        "class" : "fop"
+        "class": "fop"
     },
     {
         "name": "Insta login page",
         "src": "monkey.png",
-        
         "year": "2023",
         "dets": "SocioEase is a simple social media website which is strictly concerned about your privacy and it is distraction free also. (Under Development)",
         "tagline": "Instagram login UI",
@@ -235,7 +235,6 @@
         "demo": "https://sahilkalkal9.github.io/instaLandingPage/",
         "br": "0px",
         "tech": "React | CSS",
-        
-        "class" : "fip"
+        "class": "fip"
     }
 ]
